@@ -1,0 +1,17 @@
+.baner__titulo{
+    color: rgb(244, 236, 236);
+    font-family: fantasy;
+    font-size: 5rem;
+    text-align: center;
+    width: 100%; 
+}
+@media screen and(min-width:0) {
+    .baner__titulo{
+        font-size: 5rem;
+    }
+}
+@media screen and(min-width:768px) {
+    .baner__titulo{
+        font-size: 2rem;
+    }
+}

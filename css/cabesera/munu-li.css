@@ -1,0 +1,9 @@
+.menu__li{
+    color: black;
+    margin-right: 2rem;
+    text-decoration: none;
+}
+.menu__li:hover{
+    color:black;
+    text-decoration: overline;
+}

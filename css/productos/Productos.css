@@ -1,0 +1,7 @@
+.Productos{
+    background: rgb(95, 105, 126);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+}

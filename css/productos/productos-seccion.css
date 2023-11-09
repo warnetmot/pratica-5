@@ -1,0 +1,13 @@
+.Productos {
+    background: rgb(238, 239, 241);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.Productos__seccion {
+    text-align: center; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+}
